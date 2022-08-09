@@ -9,4 +9,3 @@ ich fühl mich so *s c h l a u* **bruder**
 **de einte stei:** <img src="https://user-images.githubusercontent.com/17656317/183608251-34c86be5-07b3-4bdf-a41c-dedea79eee92.gif" width=600px height=200px>
 `ich_han_20_min_probiert_es_so_mache`
 
-The way ~~i beat the guy up~~ the girl hugged me. 
