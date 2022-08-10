@@ -10,4 +10,4 @@ ich fühl mich so *s c h l a u* **bruder**
 `ich_han_20_min_probiert_es_so_mache`
 
 
-<img src="https://user-images.githubusercontent.com/17656317/183898059-ff5cf2b9-0c0c-416f-984f-eb2409d30bf3.gif" width=200% height=200%>
+<img src="https://user-images.githubusercontent.com/17656317/183898059-ff5cf2b9-0c0c-416f-984f-eb2409d30bf3.gif" width=500% height=500%>
