@@ -12,4 +12,4 @@ ich fühl mich so *s c h l a u* **bruder**
 
 <img src="https://user-images.githubusercontent.com/17656317/183898059-ff5cf2b9-0c0c-416f-984f-eb2409d30bf3.gif" width=50% height=100%>
 
-!link youtube.com/dasatoilet
+!link www.youtube.com/dasatoilet
