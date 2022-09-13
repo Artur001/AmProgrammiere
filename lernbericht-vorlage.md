@@ -1,13 +1,12 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
-
+Artur
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Es geht um ein Zahlerratespiel.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt, wie man ein simples Zahlerratespiel machen kann. Dies hab ich dann mit anderen Funktionen erweitert, wie z.B. eine "Willst du nochmal spielen"-Funktion.
 
 ## Beschreibung
 
@@ -20,12 +19,12 @@
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Die Medien zeigen das, was ich gemacht habe mit herumexperimentieren und alles was ich von Google gelernt habe.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 *Was lief gut? :* Das simple Zahlerratespiel zu machen war sehr einfach und lief ohne Probleme. 
 
-👎 und etwas, was nicht gut lief.
+👎 *und etwas, was nicht gut lief? :* 
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich muss unbedingt besseres Zeitmanagement haben.
