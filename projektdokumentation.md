@@ -39,7 +39,7 @@ Mein Projekt ist ein Zahlenerratespiel.
 
 ### 1.4 Diagramme
 
-'Ich habe einen Mac und daher funktionert PAP nicht bei mir.'
+*Ich habe einen Mac und daher funktionert PAP nicht bei mir.*
 
 ## 2 Planen
 
