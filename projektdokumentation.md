@@ -86,4 +86,4 @@ Ich entschied mich für wie gross die Zahl ist zwischen 1-100, weil grössere Za
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
