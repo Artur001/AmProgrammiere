@@ -1,5 +1,5 @@
 # Lern-Bericht
-Artur
+Artur Bytyqi
 ## Einleitung
 
 Es geht um ein Zahlerratespiel, bei dem das Programm wie ein bester Freund mit dir schreibt, anstatt wie ein Bot.
