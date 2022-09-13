@@ -48,26 +48,24 @@ Mein Projekt ist ein Zahlenerratespiel.
 | 1.A  |  23.8.2022     |  Ich      | Realisierung eines Projektdokumentes    | 2 * 45  |
 | 1.B  | 30.8.2022 | Ich     | Realisierung wird begonnen   | 4 * 45 |
 | 1.C  | 6.9.2022 | Ich     | Realisierung wird fortgesetzt, beendet und getestet.   | 3 * 45  |
-| 1.D  | 13.9.2022 | Ich     | Project wird abgeschlossen und abgegeben   |3 * 45 |
+| 1.D  | 13.9.2022 | Ich     | Project wird abgeschlossen und abgegeben   |2 * 45 |
 
-Total: 
+Total: **11 * 45**
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich entschied mich für wie gross die Zahl ist zwischen 1-100, weil grössere Zahlen machen keinen Sinn. Welcher Mensch geht zu einem und fragt: "Sag mir eine Zahl von 1 bis 1000. Wenn du richtig ratest, bekommst du etwas." Wie oft man geratet hat, ist für mich auch lustig und man kann z.B. zeigen, dass man nur einmal geratet hat und es richtig war. Man bekommt sogar eine Nachricht, wie das Programm überzeugt ist. Das wollte ich auch. Sehr interessant war für mich, wie man die Funktion macht, dass man nochmals spielen kann. Diese Funktion brauchte am meisten Zeit für mich, weil ich es einfach nicht verstanden habe. Ich entschied mich auch noch, dass wenn man Zahlen über die Range schreibt, dass man erst als dumm beleidigt wird und dann verwarnt wird. Die Verwarnung ist, wenn man beim zweiten Mal wieder eine Zahl über 100 schreibt, dass das Programm sagt, dass es "kein Bock" mehr hat.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |        |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |    23.8.2022   | Artur       | 2 * 45              |   2 * 45                |
+| 1.B  | 30.8.2022      | Artur          | 4 * 45     | 5 * 45    |
+| 1.C  | 6.9.2022  |  Artur    |    3 * 45   |  2 * 45    |
+| 1.D  | 13.9.2022  |  Artur    | 2 * 45  | 2 * 45 |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -75,19 +73,16 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |13.9.2022| Zahl wird generiert |Artur |
+| 1.2  | 13.9.2022    |Programm sagt ob Zahl höher oder tiefer ist |Artur |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    | Jonah hat einen kleinen Bug gefunden; wenn man eine Zahl über 100 eingibt, dass das Programm beim zweiten Male aufhören soll|2 x eine Zahl über 100 |"weisch was, ich han eif kb meh bro.."|schon beim ersten Mal eine Zahl über 100 schreiben kommt diese Nachricht |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
