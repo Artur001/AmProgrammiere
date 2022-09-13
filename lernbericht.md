@@ -21,8 +21,7 @@ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum
  <img src="https://user-images.githubusercontent.com/17656317/184826012-cb85b29a-c2c0-458d-bccb-153406f51f26.gif" width=30% height=30%>
 
 ## Verifikation
-
-Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Das Bild soll zeigen, dass man einen grossen Vorteil hat wenn man b-hoppt, weil man schneller als die anderen ist. Das GIF soll kurz zeigen, wie es aussieht wenn man bunny hoppt.
 
 # Reflektion zum Arbeitsprozess
 
